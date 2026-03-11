@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![LangGraph](https://img.shields.io/badge/Framework-LangGraph-green)
+![LLM](https://img.shields.io/badge/LLM-Groq%20Llama--3.3--70B-orange)
+![UI](https://img.shields.io/badge/UI-Streamlit-red)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 # 🌍 Deep Research AI Web Search Agent
 
 A **production-grade multi-agent research system** that retrieves live internet information and generates structured answers using **LLM reasoning**, **web search tools**, and **agent orchestration**.
