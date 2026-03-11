@@ -13,6 +13,34 @@ The system simulates a **research assistant pipeline**, where multiple specializ
 
 This project was developed as part of the **Slooze AI Engineer Technical Challenge**.
 
+## Demo
+
+![Demo](demo.gif)
+
+## Quick Start
+
+```bash
+git clone https://github.com/soumadipchangder/Deep-Research-AI-Web-Agent
+cd Deep-Research-AI-Web-Agent
+pip install -r requirements.txt
+
+export GROQ_API_KEY=your_key
+export TAVILY_API_KEY=your_key
+
+streamlit run app.py
+```
+
+## Why Multi-Agent Architecture?
+
+This project uses a multi-agent pipeline instead of a single LLM call.
+
+Benefits:
+
+• modular reasoning pipeline  
+• better retrieval grounding  
+• improved answer reliability  
+• scalable architecture for complex research tasks
+
 ---
 
 # 🚀 Key Features
@@ -68,7 +96,7 @@ Each stage acts as a **node in the LangGraph state graph**, enabling modular and
 # 🛠 Project Structure
 
 
-ai-web-search-agent/
+Deep-Research-AI-Web-Agent/
 ├── app.py # Main Streamlit application
 │
 ├── agents/ # Specialized LangGraph agents
