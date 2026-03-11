@@ -15,7 +15,7 @@ This project was developed as part of the **Slooze AI Engineer Technical Challen
 
 ## Demo
 
-![Demo](demo.gif)
+![Demo](demo.png)
 
 ## Quick Start
 
@@ -40,6 +40,21 @@ Benefits:
 • better retrieval grounding  
 • improved answer reliability  
 • scalable architecture for complex research tasks
+
+---
+
+## Example Query
+
+What are the latest MacBook specifications in 2026?
+
+## Example Output
+
+Answer:
+Recent MacBook models feature Apple's latest M-series chips...
+
+Sources:
+- link1
+- link2
 
 ---
 
