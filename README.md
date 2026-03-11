@@ -15,7 +15,8 @@ This project was developed as part of the **Slooze AI Engineer Technical Challen
 
 ## Demo
 
-![Demo](demo.png)
+![Demo](<img width="1470" height="738" alt="Demo" src="https://github.com/user-attachments/assets/d58e37f2-bd7f-4f2b-86a0-450bd935979f" />
+)
 
 ## Quick Start
 
